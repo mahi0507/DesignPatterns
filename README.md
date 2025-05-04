@@ -1,5 +1,3 @@
-Here’s a brief summary of the three main categories of design patterns—**Creational**, **Structural**, and **Behavioral**—with examples for each:
-
 ### 1. **Creational Design Patterns**
 
 These patterns deal with object creation mechanisms. They help create objects in a manner suitable to the situation.
